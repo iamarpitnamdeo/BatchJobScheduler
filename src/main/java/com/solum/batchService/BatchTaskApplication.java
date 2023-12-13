@@ -1,13 +1,13 @@
-package com.example.userBatchService;
+package com.solum.batchService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserBatchServiceApplication {
+public class BatchTaskApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserBatchServiceApplication.class, args);
+		SpringApplication.run(BatchTaskApplication.class, args);
 	}
 
 }

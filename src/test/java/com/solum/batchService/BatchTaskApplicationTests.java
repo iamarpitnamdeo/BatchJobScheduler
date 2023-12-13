@@ -1,10 +1,10 @@
-package com.example.userBatchService;
+package com.solum.batchService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserBatchServiceApplicationTests {
+class BatchTaskApplicationTests {
 
 	@Test
 	void contextLoads() {
